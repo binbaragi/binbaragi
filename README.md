@@ -8,7 +8,7 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 - 🌱 **Aprendizado atual:** Desenvolvimento de aplicativos móveis usando **Flutter**.
 - 💻 **Transformar:** Participante voluntária do projeto Transformar, onde transformamos tvbox's em mni computadores.
 - 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
-- 
+  
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&langs_count=7&theme=dracula"/>
