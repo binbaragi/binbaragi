@@ -6,7 +6,7 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 ## 💡 Projetos e Iniciativas
 
 - 🌱 **Aprendizado atual:** Desenvolvimento de aplicativos móveis usando **Flutter**.
-- 💻 **Transformar:** Participante voluntária do projeto Transformar, onde transformamos tvbox's em mni computadores.
+- 💻 **Transformar:** Participante voluntária do projeto Transformar, onde transformamos tvbox's em mini computadores, utilizando sistemas Linux.
 - 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
 
 ## 🔧 Ferramentas e Tecnologia:
