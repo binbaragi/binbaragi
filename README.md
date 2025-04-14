@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 - 💻 **Transformar:** Participante voluntária do projeto Transformar, onde transformamos tvbox's em mni computadores.
 - 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
 
-## 🔧 Technologies & Tools:
+## 🔧 Ferramentas e Tecnologia:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,mysql,github,figma" alt="skills">
 </p>
