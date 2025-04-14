@@ -10,18 +10,12 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 - 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
   
 <div>
-<a href="https://github.com/binbaragi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=binbaragi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Manuela's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&theme=highcontrast)
 </div>
 
-## 📬 Como falar comigo?
-
-<div>
-<a href="https://instagram.com/manu_mbc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@manucannizza"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/manuela-bechara-cannizza-841964296" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuela-bechara-cannizza-841964296)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manucannizza@gmail.com)
 
 ---
 
