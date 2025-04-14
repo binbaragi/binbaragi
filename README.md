@@ -9,9 +9,9 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 - 💻 **Transformar:** Participante voluntária do projeto Transformar, onde transformamos tvbox's em mni computadores.
 - 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
   
-<div>
+
 ![Manuela's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&theme=highcontrast)
-</div>
+
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuela-bechara-cannizza-841964296)
