@@ -10,7 +10,7 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 - 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
   
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/binbaragi">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=binbaragi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
