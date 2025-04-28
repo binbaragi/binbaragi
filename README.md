@@ -11,7 +11,7 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 
 ## 🔧 Ferramentas e Tecnologia:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,mysql,github,figma" alt="skills">
+  <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,nodejs,mysql,github,figma" alt="skills">
 </p>
   
 ## 💻 Linguagens mais utilizadas
