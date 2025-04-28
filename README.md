@@ -1,20 +1,21 @@
-# Olá! 👋
+# Hello! 👋
 
-Meu nome é Manuela e estou atualmente no 5º período do curso de **Sistemas de Informação** na UTFPR.  
-Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvolvimento mobile com Flutter** 📱🚀.
+My name is Manuela, and I am currently in the 5th semester of the **Information Systems** course at UTFPR.  
+I am passionate about technology and, at the moment, I am deepening my knowledge in **mobile development with Flutter** 📱🚀.
 
-## 💡 Projetos e Iniciativas
+## 💡 Projects and Initiatives
 
-- 🌱 **Aprendizado atual:** Desenvolvimento de aplicativos móveis usando **Flutter**.
-- 💻 **Transformar:** Participante voluntária do projeto Transformar, onde transformamos tvbox's em mini computadores, utilizando sistemas Linux.
-- 🔬 **Pesquisa:** Bolsista no grupo de pesquisa [IntelAgir](https://github.com/IntelAgir-Research-Group), onde atuo na área de robótica e ROS.
+- 🌱 **Current Learning:** Mobile application development using **Flutter**.
+- 💻 **Transformar:** Volunteer participant in the Transformar project, where we transform TV boxes into mini computers using Linux systems.
+- 🔬 **Research:** Research scholar at the [IntelAgir](https://github.com/IntelAgir-Research-Group) group, working in the area of robotics and ROS.
+- 👩‍💼 **TypeX:** Head of Human Resourcers at the junior enterprise [TypeX](https://github.com/ejTypeX), where I develop leadership skills, manage team recruitment processes, and promote a healthy organizational culture.
 
-## 🔧 Ferramentas e Tecnologia:
+## 🔧 Tools and Technologies:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,nodejs,mysql,github,figma" alt="skills">
 </p>
-  
-## 💻 Linguagens mais utilizadas
+
+## 💻 Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&theme=highcontrast" alt="Manuela's Most Used Languages"/>
@@ -26,4 +27,5 @@ Sou apaixonada por tecnologia e, no momento, estou me aprofundando em **desenvol
 
 ---
 
-Obrigada por visitar meu perfil!
+Thank you for visiting my profile!
+
