@@ -11,15 +11,14 @@ I am passionate about technology and, at the moment, I am deepening my knowledge
 - 👩‍💼 **TypeX:** Head of Human Resourcers at the junior enterprise [TypeX](https://github.com/ejTypeX), where I develop leadership skills, manage team recruitment processes, and promote a healthy organizational culture.
 
 ## 🔧 Tools and Technologies:
-<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,nodejs,mysql,github,figma" alt="skills">
-</p>
+
 
 ## 💻 Most Used Languages
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binbaragi&layout=compact&theme=highcontrast" alt="Manuela's Most Used Languages"/>
-</div>
+
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuela-bechara-cannizza-841964296)
